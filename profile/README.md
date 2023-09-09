@@ -3,7 +3,7 @@
 
 - 🦄 There is NaixiNana's InterNet Cloud Studio
 - 🌱 We are woking for `Python` | `Html` | `Java`
-- 📫 Discord Server: [`NaixiNana's Chat Server`](https://discord.gg/JeCNh9hwSQ) | QQ Group: [`不卖奶昔的小摊 1013156363`](https://qm.qq.com/cgi-bin/qm/qr?k=82RrLPWxpazursXdmElTS2Zyh9SVLr0b&jump_from=webapi&authKey=cgnBj6lzLQoFjT5AtVJxYDoJCAlLTLX1XJsAZ5OfrrnFDOleHpLWkq9jWM65nELd), [`笨蛋信息技术交流 854370452`](https://qm.qq.com/cgi-bin/qm/qr?k=WkwtG1Ym9ZwvMYIeTnZtVffPJtQ0pWp7&jump_from=webapi&authKey=vtMnX1eWzwcgwZHBE9rOCgXMcxRZ9ROP8hUQ4fRGQ4V7vqhWLyvLuTNBnSEA03ze) | TG: [`NaixiNana's Chat Channel`](https://t.me/naixinana) | Mail: [`xixicloudstudio@naixi.eu.org`](mailto:xixicloudstudio@naixi.eu.org) | Site: [`https://naixi.eu.org/studio/`](https://naixi.eu.org)
+- 📫 Discord Server: [`NaixiNana's Chat Server`](https://discord.gg/JeCNh9hwSQ) | [`笨蛋信息技术交流 854370452`](https://qm.qq.com/cgi-bin/qm/qr?k=WkwtG1Ym9ZwvMYIeTnZtVffPJtQ0pWp7&jump_from=webapi&authKey=vtMnX1eWzwcgwZHBE9rOCgXMcxRZ9ROP8hUQ4fRGQ4V7vqhWLyvLuTNBnSEA03ze) | TG: [`NaixiNana's Chat Channel`](https://t.me/naixinana) | Mail: [`xixicloudstudio@naixi.eu.org`](mailto:xixicloudstudio@naixi.eu.org) | Site: [`https://naixi.eu.org/studio/`](https://naixi.eu.org)
 
 <p align="center"><img align="center" src="https://github.com/naiximcn/naiximcn/raw/main/github.gif"></p>
 
